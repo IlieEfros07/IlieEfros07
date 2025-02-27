@@ -1,4 +1,4 @@
-# 👋 Hey, I’m [Ilie Efros]  
+# 👋 Hey, I’m Ilie Efros
 
 > *"Code is like humor. When you have to explain it, it’s bad."* — Cory House  
 
