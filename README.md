@@ -3,7 +3,7 @@
 > *"Code is like humor. When you have to explain it, it’s bad."* — Cory House  
 
 ## 🧑‍💻 About Me  
-I’m a passionate developer with experience in full-stack web development, game engine programming, and software engineering. I love building projects from the ground up, learning new technologies, and solving complex problems.  
+I’m a passionate developer with some experience in full-stack web development, game engine programming, and software engineering. I love building projects from the ground up, learning new technologies, and solving complex problems.  
 
 ---
 
