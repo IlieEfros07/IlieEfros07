@@ -49,8 +49,7 @@ I’m a passionate developer with experience in full-stack web development, game
 ---
 
 ## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=IlieEfros07&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IlieEfros07&layout=compact&theme=radical)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=IlieEfros07&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IlieEfros07&layout=compact&theme=radical)  
 
 ---
 
