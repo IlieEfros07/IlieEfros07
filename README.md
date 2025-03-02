@@ -48,11 +48,6 @@ I’m a passionate developer with some experience in full-stack web development,
 
 ---
 
-## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=IlieEfros07&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IlieEfros07&layout=compact&theme=radical)  
-
----
-
 
 ## 🧠 Interests  
 - Algorithms & Data Structures  
