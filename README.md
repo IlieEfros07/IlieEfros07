@@ -36,7 +36,7 @@ I’m a passionate developer with some experience in full-stack web development,
 
 ## 🌱 Current Projects  
 - **🐔 Chicken Farm Website:** Order placement and farm promotion site for a farm in Moldova  
-- **🎮 Maze game:** Making a maze game in Unreal Engine
+
   
  
 
